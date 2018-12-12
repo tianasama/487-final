@@ -37,4 +37,3 @@
 17. Make a final commit with the message "Finished the coding test", and make sure all of your code is pushed to Github.
 
 18. Email me the link at lexinamer@gmail.com when you are finished. Good luck with the rest of your exams!
-# 487-final
